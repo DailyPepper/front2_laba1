@@ -10,5 +10,5 @@
 
 ![Image alt](Header.png)
 ![Image alt](Cards.png)
-![Image alt](Card addit.png)
+![Image alt](Card.png)
 ![Image alt](registration.png)
